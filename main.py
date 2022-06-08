@@ -1,7 +1,7 @@
 from commands import *
 
 print("----Hello, this lib was created by mgvr ( evdev )")
-print("----https://instagram.com/everything_development\n")
+print("----https://instagram.com/evdev.dev\n")
 print('----happy telewriting\n')
 
 def main():

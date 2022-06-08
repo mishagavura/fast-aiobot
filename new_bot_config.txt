@@ -1,3 +1,0 @@
---initialize aiogram
---install logs
---install send_logs

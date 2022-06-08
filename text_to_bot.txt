@@ -1,7 +1,0 @@
-start | text | Привіт, друже!
-name | text | input surname
-surname | text | input email
-email | options | vegeterian, meat, non-vegeterian | food_sel
-food | text | thanks, everything was saved!
-hello1 | options | hello1, hello2 | hello_sel
-run | run_bot
