@@ -54,6 +54,7 @@ class Cart():
 		self.cart_positions = cart_positions
 	
 	def get(self):
+		return cart_json
 
 	def clear(self):
 		#clear_cart
@@ -75,5 +76,5 @@ class Cart():
 		return 0
 
 
-for item in Cart(cart_positions):
+for item in Cart(cart_positions).cart_positions:
 	print(item)
