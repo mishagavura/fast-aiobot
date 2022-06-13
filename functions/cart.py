@@ -24,28 +24,30 @@ cart_positions = [
 			{
 				"title": 'Tomato 1',
 				"description": None,
-				"image": 'url to file'
+				"image_url": 'url to file'
 			},
 			{
 				"title": 'Tomato 2',
 				"description": None,
-				"image": 'url to file'
+				"image_url": 'url to file'
 			},
 		],
-		"size": [
+		"sizes": [
 			{
 				"weight": 100,
 				"metrics": 'grams'
+				"price": 100,
+				"discount_percent": 10
 			},
 			{
 				"weight": 500,
-				"metrics": 'grams'
+				"metrics": 'grams',
+				"price": 150,
+				"discount_percent": None, 
 			}
 		],
-		"price":[20, 50],
-		"price_discount": None,
 		"currency": 'UAH',
-		"in_stock": None
+		"in_stock": True
 	}
 ]
 
