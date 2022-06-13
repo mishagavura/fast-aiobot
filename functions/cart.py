@@ -6,14 +6,14 @@
 # -- images: arr
 #    -- title: str
 #    -- desctiption: str
-#    -- image: file
-# -- size: arr 
+#    -- image_url: file
+# -- sizes: arr 
 #    -- weight: int
 #    -- metrics: str
-# -- price: arr
-# -- price_discount: arr
+#    -- price: float
+#    -- discount_percent: int
 # -- currency: str
-# -- in_stock: bool(True/False/None), specifing none means not to display
+# -- in_stock: bool(True/False/None), specifing None means not to display
 
 
 cart_positions = [
