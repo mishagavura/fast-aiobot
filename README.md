@@ -16,4 +16,4 @@
     in_stock: bool(True/False/None), specifing None means not to display
 
 
-Currently in development, please do not use.
+Currently in development, please do not use. 
