@@ -1,3 +1,4 @@
+
 logs_cmd = """
 
 def save_logs(text):
